@@ -9,13 +9,14 @@ Instrument: Thermo Delta Plus XP, Thermo Fisher Scientific Inc., Germany. Extrac
 
 Data specifications:
 ---------------------
-Columns __filling time__ is in __CET__
-Columns __d13C VPDB__ and __dD VSMOW__ in __‰__
+- __filling time__ is in __CET__
+- __d13C VPDB__ and __dD VSMOW__ in __‰__
+
 _Measurement uncertainty_
-__CRDS x(CH4)__ -> 2 ppb
-__IRMS x(CH4)__ -> 10 ppb
-__IRMS d13C VPDB__ -> 0.1 ‰
-__IRMS dD VSMOW__ -> 2 ‰
+- __CRDS x(CH4)__ -> 2 ppb
+- __IRMS x(CH4)__ -> 10 ppb
+- __IRMS d13C VPDB__ -> 0.1 ‰
+- __IRMS dD VSMOW__ -> 2 ‰
 
 Authors: 
 ---------------------
