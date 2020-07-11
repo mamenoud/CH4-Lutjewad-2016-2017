@@ -16,6 +16,11 @@ Brass, M., Röckmann, T., 2010. Continuous-flow isotope ratio mass spectrometry 
 Modelling methods:
 ---------------------
 
+_LMDz (Laboratoire de Météorologie Dynamique)_ 
+(background x(CH4) only)
+Hourdin, F., Musat, I., Bony, S., Braconnot, P., Codron, F., Dufresne, J.-L., Fairhead, L., Filiberti, M.-A., Friedlingstein, P., Grandpeix, J.-Y., Krinner, G., LeVan, P., Li, Z.-X., Lott, F., 2006. The LMDZ4 general circulation model: climate performance and sensitivity to parametrized physics with emphasis on tropical convection. Clim Dyn 27, 787–813. https://doi.org/10.1007/s00382-006-0158-0
+Thanwerdas, J., Saunois, M., Berchet, A., Pison, I., Hauglustaine, D., Ramonet, M., Crevoisier, C., Baier, B., Sweeney, C., Bousquet, P., 2019. Impact of atomic chlorine on the modelling of total methane and its 13C:12C isotopic ratio at global scale (preprint). Gases/Atmospheric Modelling/Stratosphere/Chemistry (chemical composition and reactions). https://doi.org/10.5194/acp-2019-925
+
 _CHIMERE_
 Fortems-Cheiney, A., Pison, I., Dufour, G., Broquet, G., Berchet, A., Potier, E., Coman, A., Siour, G., Costantino, L., 2019. Variational regional inverse modeling of reactive species emissions with PYVAR-CHIMERE (preprint). Atmospheric Sciences. https://doi.org/10.5194/gmd-2019-186
 Mailler, S., Menut, L., Khvorostyanov, D., Valari, M., Couvidat, F., Siour, G., Turquety, S., Briant, R., Tuccella, P., Bessagnet, B., Colette, A., Létinois, L., Markakis, K., Meleux, F., 2017. CHIMERE-2017: from urban to hemispheric chemistry-transport modeling. Geosci. Model Dev. 10, 2397–2423. https://doi.org/10.5194/gmd-10-2397-2017
@@ -52,6 +57,7 @@ _List of abbreviations_
 -__FF__ -> emission sector: fossil fuel extraction and distribution
 -__OTH__ -> emission sector: other anthropogenic
 -__WETL__ -> emission sector: wetlands
+-__BG__ -> background
 
 Authors: 
 ---------------------
